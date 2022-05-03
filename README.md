@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Javier-Alfonso-DS
 - 👀 I’m interested in coding, bicycles, technology, books, series..
-- 🌱 I’m currently learning Python & Data-Science!
+- 🌱 I know Python & Data-Science & PLC Programming.
 - 📫 How to reach me?: check my LinkedIn profile! -> www.linkedin.com/in/javier-alfonso-lorenz
 
 <!---
